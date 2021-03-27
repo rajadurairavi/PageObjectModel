@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7023" started-at="2021-03-04T02:13:22Z" finished-at="2021-03-04T02:13:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7023" started-at="2021-03-04T02:13:22Z" finished-at="2021-03-04T02:13:29Z">
+      <class name="testCases.TC03_LogInFBWithoutPageFactory">
+        <test-method status="PASS" signature="logInFaceBookWithoutPageFactory()[pri:0, instance:testCases.TC03_LogInFBWithoutPageFactory@271053e1]" name="logInFaceBookWithoutPageFactory" duration-ms="6993" started-at="2021-03-04T07:43:22Z" finished-at="2021-03-04T07:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInFaceBookWithoutPageFactory -->
+      </class> <!-- testCases.TC03_LogInFBWithoutPageFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
